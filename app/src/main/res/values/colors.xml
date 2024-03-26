@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+        <color name="primary">#6200EE</color>
+        <color name="primaryDark">#3700B3</color>
+        <color name="accent">#03DAC5</color>
+    <color name="option_default">#FFFFFF</color>
+    <color name="option_selected">#FFEB3B</color>
+    <color name="option_text_default">#000000</color>
+    <color name="option_text_selected">#FFFFFF</color>
+    <color name="vibrant_green">#00FF00</color>
+
+        <color name="actionBarColor">#008577</color>
+
+        <color name="textColorPrimary">#FFFFFF</color>
+        <color name="textColorSecondary">#BDBDBD</color>
+
+        <color name="buttonTextColor">#FFFFFF</color>
+        <color name="buttonBackgroundColor">#FF9800</color>
+
+    <color name="earningsColor">#FF5722</color>
+    <color name="selectedOptionBackground">#FFEB3B</color>
+    <color name="selectedOptionText">#FFFFFF</color>
+    <color name="normalOptionText">#000000</color>
+        <color name="submitButtonNormal">#FF6200EE</color>
+        <color name="submitButtonPressed">#FF3700B3</color>
+        <color name="submitButtonTextColor">#FFFFFF</color>
+    <color name="defaultOptionBackground">#FFFFFF</color>
+
+    <color name="defaultOptionText">#000000</color>
+    <color name="gameOverTextColor">#FF0000</color>
+    <color name="finalEarningsTextColor">#0000FF</color>
+    <color name="restartButtonTextColor">#FFFFFF</color>
+
+
+
+
+</resources>

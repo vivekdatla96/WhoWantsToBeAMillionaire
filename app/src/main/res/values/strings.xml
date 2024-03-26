@@ -1,0 +1,104 @@
+<resources>
+
+        <!-- App name -->
+        <string name="app_name">Who Wants to Be a Millionaire</string>
+
+        <!-- Questions -->
+        <string name="question_1">What is the capital of Canada?</string>
+        <string name="question_2">Who painted the Mona Lisa?</string>
+        <string name="question_3">What is the main ingredient in guacamole?</string>
+        <string name="question_4">What year did the Titanic sink?</string>
+        <string name="question_5">Who is known as the "Father of Computers"?</string>
+        <string name="question_6">Which element is denoted by the symbol "O" in the periodic table?</string>
+        <string name="question_7">In which continent is the Sahara Desert located?</string>
+        <string name="question_8">What is the largest mammal in the world?</string>
+        <string name="question_9">Who is the author of the "Harry Potter" series?</string>
+        <string name="question_10">What currency is used in Japan?</string>
+
+        <!-- Options for Question 1 -->
+        <string name="question_1_option_a">Ottawa</string>
+        <string name="question_1_option_b">Toronto</string>
+        <string name="question_1_option_c">Vancouver</string>
+        <string name="question_1_option_d">Montreal</string>
+        <string name="question_1_correct">Ottawa</string>
+
+        <!-- Options for Question 2 -->
+        <string name="question_2_option_a">Vincent Van Gogh</string>
+        <string name="question_2_option_b">Leonardo da Vinci</string>
+        <string name="question_2_option_c">Pablo Picasso</string>
+        <string name="question_2_option_d">Claude Monet</string>
+        <string name="question_2_correct">Leonardo da Vinci</string>
+
+        <!-- Options for Question 3 -->
+        <string name="question_3_option_a">Tomatoes</string>
+        <string name="question_3_option_b">Lime</string>
+        <string name="question_3_option_c">Avocado</string>
+        <string name="question_3_option_d">Onions</string>
+        <string name="question_3_correct">Avocado</string>
+
+        <!-- Options for Question 4 -->
+        <string name="question_4_option_a">1912</string>
+        <string name="question_4_option_b">1915</string>
+        <string name="question_4_option_c">1905</string>
+        <string name="question_4_option_d">1920</string>
+        <string name="question_4_correct">1912</string>
+
+        <!-- Options for Question 5 -->
+        <string name="question_5_option_a">Charles Babbage</string>
+        <string name="question_5_option_b">Alan Turing</string>
+        <string name="question_5_option_c">John Atanasoff</string>
+        <string name="question_5_option_d">Konrad Zuse</string>
+        <string name="question_5_correct">Charles Babbage</string>
+
+        <!-- Options for Question 6 -->
+        <string name="question_6_option_a">Hydrogen</string>
+        <string name="question_6_option_b">Helium</string>
+        <string name="question_6_option_c">Oxygen</string>
+        <string name="question_6_option_d">Carbon</string>
+        <string name="question_6_correct">Oxygen</string>
+
+        <!-- Options for Question 7 -->
+        <string name="question_7_option_a">Asia</string>
+        <string name="question_7_option_b">Africa</string>
+        <string name="question_7_option_c">North America</string>
+        <string name="question_7_option_d">Australia</string>
+        <string name="question_7_correct">Africa</string>
+
+        <!-- Options for Question 8 -->
+        <string name="question_8_option_a">Elephant</string>
+        <string name="question_8_option_b">Great Blue Whale</string>
+        <string name="question_8_option_c">Giraffe</string>
+        <string name="question_8_option_d">Hippopotamus</string>
+        <string name="question_8_correct">Great Blue Whale</string>
+
+        <!-- Options for Question 9 -->
+        <string name="question_9_option_a">J.K. Rowling</string>
+        <string name="question_9_option_b">J.R.R. Tolkien</string>
+        <string name="question_9_option_c">Stephen King</string>
+        <string name="question_9_option_d">Agatha Christie</string>
+        <string name="question_9_correct">J.K. Rowling</string>
+
+        <!-- Options for Question 10 -->
+        <string name="question_10_option_a">Euro</string>
+        <string name="question_10_option_b">Yuan</string>
+        <string name="question_10_option_c">Won</string>
+        <string name="question_10_option_d">Yen</string>
+        <string name="question_10_correct">Yen</string>
+
+        <!-- Earnings format -->
+        <string name="earnings_format">Earnings: $%1$d</string>
+
+        <!-- Confirm Button -->
+        <string name="button_confirm">CONFIRM</string>
+                <string name="game_over">Game Over</string>
+                <string name="final_earnings_initial">You won $0</string>
+                <string name="restart_game">Restart Game</string>
+
+                <string name="final_earnings">You won: $%1$d</string>
+
+        </resources>
+
+
+
+
+
