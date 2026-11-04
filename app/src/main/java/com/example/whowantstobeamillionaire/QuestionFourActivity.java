@@ -30,7 +30,7 @@ public class QuestionFourActivity extends AppCompatActivity {
         // Get earnings from the previous question
         previousQuestionEarnings = getIntent().getIntExtra("QUESTION_EARNINGS", 0);
         // Update the earnings display to show earnings from the previous question
-        currentEarnings.setText("EEarnings : $" + previousQuestionEarnings);
+        currentEarnings.setText("Earnings : $" + previousQuestionEarnings);
 
         // Set up the submit button click listener
         submitButton.setOnClickListener(new View.OnClickListener() {
